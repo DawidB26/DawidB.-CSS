@@ -1,0 +1,39 @@
+p#pogrubienie_brzeski{
+font-weight: bold;
+font-size: 30px;
+color: #8d59d3;
+}
+
+p#pochylona_brzeski{
+font-style: italic;
+font-size: 35pt;
+color: #f1bd6f;
+}
+
+p#indeks_gorny_brzeski{
+font-size: 1cm;
+color: #a18b1f;
+vertical-align: super;
+}
+
+p#indeks_dolny_brzeski{
+font-size: 0.5cm;
+color: (47%, 68%, 86%);
+vertical-align: sub;
+}
+
+p#mono_brzeski{
+font-size: 40px;
+color: #21db6f;
+font-family: monospace;
+}
+
+p#powiekszenie_brzeski{
+color: #5b3ba1;
+font-size: larger;
+}
+
+p#pomniejszenie_brzeski{
+color: (36%, 0%, 0%);
+font-size: smaller;
+}
