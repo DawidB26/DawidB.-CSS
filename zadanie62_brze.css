@@ -1,0 +1,16 @@
+﻿p
+{
+font-size:8mm;
+color:blue;
+}
+p:lang(pl)
+{
+font-size:9mm;
+color:silver;
+}
+p:lang(en)
+{
+font-size:13mm;
+color:lime;
+}
+/* Dawid Brzeski 14.04.2022 */

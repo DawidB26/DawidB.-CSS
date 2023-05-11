@@ -1,0 +1,39 @@
+div#blok1_brzeski:hover
+{
+background-color: gold;
+width: 605px;
+font-size: 21mm;
+}
+
+div#blok2_brzeski:hover
+{
+background-color: yellow;
+width: 605px;
+font-size: 21mm;
+}
+
+div#blok3_brzeski:hover
+{
+background-color: red;
+width: 605px;
+font-size: 21mm;
+}
+
+div#blok1_brzeski
+{
+background-color: lime;
+width: 605px;
+}
+
+div#blok2_brzeski
+{
+background-color: lime;
+width: 605px;
+}
+
+div#blok3_brzeski
+{
+background-color: lime;
+width: 605px;
+}
+/* Dawid Brzeski 07.04.2023 */

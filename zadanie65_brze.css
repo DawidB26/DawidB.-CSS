@@ -1,0 +1,33 @@
+div#pierwszy_brzeski
+{
+    width: 720pt;
+    background-color: pink;
+    border: 7px solid purple;
+    border-radius: 12mm;
+}
+div#drugi_brzeski
+{
+    width: 920pt;
+    background-color: lime;
+    border: 3px solid black;
+    border-radius: 14mm;
+	margin-left: auto;
+    margin-right: auto;
+}
+div#trzeci_brzeski
+{
+    width: 1120pt;
+    background-color: aqua;
+    border: 5px solid blue;
+    border-radius: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+p:first-child {
+    font-size: 7mm;
+    font-style: italic;
+  }
+  
+  p {
+    font-size: 11pt;
+  }

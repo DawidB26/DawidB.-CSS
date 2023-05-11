@@ -1,0 +1,19 @@
+p:first-child:first-letter {
+    font-size: 115px;
+    color: blue;
+  }
+  
+  p:first-child {
+    font-size: 20pt;
+    color: yellow;
+  }
+  
+  p:first-letter {
+      font-size: 115px;
+      color: silver;
+    }
+    
+    p {
+      font-size: 20pt;
+      color: yellow;
+    }
